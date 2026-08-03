@@ -11,6 +11,17 @@
 
 ---
 
+### 🏆 Data Competitions
+
+| Name | Time | Data_Type | Repository | Comp_Type | Ranking online | Solo/Team |
+| --- | --- | --- | --- | --- | --- | --- |
+| 示例：天池XXX大赛 | 2024.01 - 2024.03 | Structure | [code](https://github.com/hou-li-dai-jie-kiu-lai/myDataCompetition) | Prizes | 5 / 1000 | Team |
+| 示例：Kaggle XXX | 2023.06 - 2023.08 | Image | [code](https://github.com/hou-li-dai-jie-kiu-lai/myDataCompetition) | Prizes | 20 / 500 🥈 | Solo |
+
+> 赛题代码集中存放于 [myDataCompetition](https://github.com/hou-li-dai-jie-kiu-lai/myDataCompetition)
+
+---
+
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
