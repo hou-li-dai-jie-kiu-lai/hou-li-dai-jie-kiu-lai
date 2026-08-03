@@ -1,4 +1,4 @@
-# Hi there, I'm yang 👋
+# Hi there, I'm 红领巾 👋
 
 数据科学 / 机器学习竞赛爱好者，Kaggle 冲分中 🚀
 
