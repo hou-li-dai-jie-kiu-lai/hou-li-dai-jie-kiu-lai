@@ -1,7 +1,5 @@
 # Hi there, I'm 红领巾 👋
 
-数据科学 / 机器学习竞赛爱好者，Kaggle 冲分中 🚀
-
 - 🔭 I'm currently working as an algorithm / data science engineer
 - 🎓 Bachelor's and Master's degrees from Beijing University of Chemical Technology (BUCT)
 
