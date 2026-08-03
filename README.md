@@ -17,6 +17,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 食物声音识别 | 2021.04 | Audio | [code](https://github.com/hou-li-dai-jie-kiu-lai/myDataCompetition/tree/main/tianchi-food-sound) | Practice | 1 / 2923 | Solo |
 | 零基础入门数据挖掘-心跳信号分类预测 | 2021.07 | Signal | [code](https://github.com/hou-li-dai-jie-kiu-lai/myDataCompetition/tree/main/tianchi-heartbeat) | Practice | A榜 3 / 18571 | Solo |
+| 地球观察员：建筑物识别 | 2021.03 | Image | [code](https://github.com/hou-li-dai-jie-kiu-lai/myDataCompetition/tree/main/tianchi-building) | Practice | 27 / 6400 | Solo |
 
 > 赛题代码集中存放于 [myDataCompetition](https://github.com/hou-li-dai-jie-kiu-lai/myDataCompetition)
 
