@@ -1,13 +1,9 @@
 # Hi there, I'm yang 👋
 
-> *"The unexamined life is not worth living."*
-
 数据科学 / 机器学习竞赛爱好者，Kaggle 冲分中 🚀
 
 - 🔭 I'm currently working as an algorithm / data science engineer
-- 🌱 I'm currently interested in **ML, Data Science, Kaggle Competitions**
-- 🏆 Kaggle 账号：[houlidaijiekiulai](https://www.kaggle.com/houlidaijiekiulai)
-- 💬 Ask me about: Python, Machine Learning, Data Analysis
+- 🎓 Bachelor's and Master's degrees from Beijing University of Chemical Technology (BUCT)
 
 ---
 
