@@ -15,8 +15,7 @@
 
 | Name | Time | Data_Type | Repository | Comp_Type | Ranking online | Solo/Team |
 | --- | --- | --- | --- | --- | --- | --- |
-| 示例：天池XXX大赛 | 2024.01 - 2024.03 | Structure | [code](https://github.com/hou-li-dai-jie-kiu-lai/myDataCompetition) | Prizes | 5 / 1000 | Team |
-| 示例：Kaggle XXX | 2023.06 - 2023.08 | Image | [code](https://github.com/hou-li-dai-jie-kiu-lai/myDataCompetition) | Prizes | 20 / 500 🥈 | Solo |
+| 美食侦探：食物声音识别 | 2024.12 - 2025.12 | Audio | [code](https://github.com/hou-li-dai-jie-kiu-lai/myDataCompetition/tree/main/tianchi-food-sound) | Practice | 1 / 2923 | Solo |
 
 > 赛题代码集中存放于 [myDataCompetition](https://github.com/hou-li-dai-jie-kiu-lai/myDataCompetition)
 
