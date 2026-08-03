@@ -17,8 +17,6 @@
 | 食物声音识别 | 2021.04 | Audio | - | Practice | 1 / 2923 | Solo |
 | 建筑物识别 | 2021.03 | Segmentation | - | Practice | 27 / 6400 | Solo |
 
-> 赛题代码集中存放于 [myDataCompetition](https://github.com/hou-li-dai-jie-kiu-lai/myDataCompetition)
-
 ---
 
 ### 🛠️ Tech Stack
@@ -28,14 +26,6 @@
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-![yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hou-li-dai-jie-kiu-lai&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hou-li-dai-jie-kiu-lai&layout=compact)
 
 ---
 
