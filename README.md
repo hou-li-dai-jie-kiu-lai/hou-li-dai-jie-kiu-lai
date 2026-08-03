@@ -1,4 +1,3 @@
-<!-- profile-readme -->
 # Hi there, I'm yang 👋
 
 > *"The unexamined life is not worth living."*
