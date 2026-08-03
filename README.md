@@ -15,7 +15,8 @@
 
 | Name | Time | Data_Type | Repository | Comp_Type | Ranking online | Solo/Team |
 | --- | --- | --- | --- | --- | --- | --- |
-| 美食侦探：食物声音识别 | 2024.12 - 2025.12 | Audio | [code](https://github.com/hou-li-dai-jie-kiu-lai/myDataCompetition/tree/main/tianchi-food-sound) | Practice | 1 / 2923 | Solo |
+| 食物声音识别 | 2024.12 - 2025.06 | Audio | [code](https://github.com/hou-li-dai-jie-kiu-lai/myDataCompetition/tree/main/tianchi-food-sound) | Practice | 1 / 2923 | Solo |
+| 零基础入门数据挖掘-心跳信号分类预测 | 2021.07 | Signal | [code](https://github.com/hou-li-dai-jie-kiu-lai/myDataCompetition/tree/main/tianchi-heartbeat) | Practice | A榜 3 / 18571 | Solo |
 
 > 赛题代码集中存放于 [myDataCompetition](https://github.com/hou-li-dai-jie-kiu-lai/myDataCompetition)
 
