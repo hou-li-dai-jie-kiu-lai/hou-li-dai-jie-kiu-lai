@@ -26,7 +26,3 @@
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-
----
-
-⭐️ From [hou-li-dai-jie-kiu-lai](https://github.com/hou-li-dai-jie-kiu-lai)
