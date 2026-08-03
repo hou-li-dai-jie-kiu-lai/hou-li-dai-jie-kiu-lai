@@ -15,7 +15,7 @@
 | 心跳信号分类预测 | 2021.07 | Signal | - | Practice | 3 / 18571 | Solo |
 | 挖掘机工作模式识别 | 2021.06 | Structure | - | Prizes | 10 / 1292 | Solo |
 | 食物声音识别 | 2021.04 | Audio | - | Practice | 1 / 2923 | Solo |
-| 建筑物识别 | 2021.03 | Image | - | Practice | 27 / 6400 | Solo |
+| 建筑物识别 | 2021.03 | Segmentation | - | Practice | 27 / 6400 | Solo |
 
 > 赛题代码集中存放于 [myDataCompetition](https://github.com/hou-li-dai-jie-kiu-lai/myDataCompetition)
 
