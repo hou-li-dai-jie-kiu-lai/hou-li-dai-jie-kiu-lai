@@ -9,6 +9,7 @@
 
 | Name | Time | Data_Type | code | Comp_Type | Ranking online | Solo/Team |
 | --- | --- | --- | --- | --- | --- | --- |
+| ROGII 井筒地质预测 | 2026.05 | Structure | [code](https://github.com/hou-li-dai-jie-kiu-lai/myDataCompetition/tree/main/rogii-wellbore) | Prizes | 422 / 6191 🥉 | Solo |
 | 通信系统调制格式识别与分类 | 2023.07 | Signal | - | Prizes | 3 / 225 | Solo |
 | 金融场景下用户信用分预测 | 2022.09 | Structure | - | Prizes | 3 / 183 | Solo |
 | 电信客户流失预测 | 2022.06 | Structure | - | Prizes | 3 / 1155 | Solo |
