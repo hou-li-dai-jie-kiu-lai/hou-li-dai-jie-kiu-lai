@@ -9,9 +9,9 @@
 
 | Name | Time | Data_Type | code | Comp_Type | Ranking online | Solo/Team |
 | --- | --- | --- | --- | --- | --- | --- |
-| 通信系统调制格式识别与分类 | 2023.07-2023.08 | Signal | - | Prizes | 3 / 225 | Solo |
-| 金融场景下用户信用分预测 | 2022.09-2022.10 | Structure | - | Prizes | 3 / 183 | Solo |
-| 电信客户流失预测 | 2022.06-2022.10 | Structure | - | Prizes | 3 / 1155 | Solo |
+| 通信系统调制格式识别与分类 | 2023.07 | Signal | - | Prizes | 3 / 225 | Solo |
+| 金融场景下用户信用分预测 | 2022.09 | Structure | - | Prizes | 3 / 183 | Solo |
+| 电信客户流失预测 | 2022.06 | Structure | - | Prizes | 3 / 1155 | Solo |
 | 心跳信号分类预测 | 2021.07 | Signal | - | Practice | 3 / 18571 | Solo |
 | 挖掘机工作模式识别 | 2021.06 | Structure | - | Prizes | 10 / 1292 | Solo |
 | 食物声音识别 | 2021.04 | Audio | - | Practice | 1 / 2923 | Solo |
